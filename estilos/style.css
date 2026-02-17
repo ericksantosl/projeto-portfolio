@@ -253,6 +253,11 @@ article h2 {
   border-radius: 8px;
 }
 
+#projeto-container a {
+  text-decoration: none;
+  color: var(--texto);
+}
+
 footer {
   background-color: var(--destaque);
   color: var(--texto-inverso);
